@@ -1,30 +1,17 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/xiaodu527/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### EDUCATIONAL BACKGROUND
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. 09/2015-Now Master Degree of Microelectronics and Solid State Electronics, School of Optical and electronic information (SOEI), Huazhong University of Science & Technology (HUST), Wuhan, China
+GPA: 3.91/4.0
+
+2. 09/2011-06/2015 Bachelor Degree of Science in Electronic Science and Technology, SOEI, HUST, Wuhan, China GPA: 3.57/4.0
+
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
